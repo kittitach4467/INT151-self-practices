@@ -1,0 +1,3 @@
+ถ้า items มีจำนวนมากกว่า maxbox ให้เพิ่ม box เรื่อยๆเพื่อที่จะเก็บ items ได้ครบจำนวน
+หากไม่มี items ไม่ต้องมี box (0) 
+หาก maxbox = 0 ให้คืนค่าข้อความ 'Items per box must be greater than zero.'
