@@ -1,0 +1,8 @@
+สร้าง file มา 3 ตัวชื่อ data ทำงานเกี่ยวกับข้อมูล
+dateTime ทำงานเกี่ยวกับเวลาและวันที่
+main เอาไว้รันและเรียกใช้
+
+dateTime มีการ export fundtion formatDate ไปที่ data เพื่อที่จะแสดงเมื่อมีการ filter sid จะแสดง วันเวลา
+พร้อมกับตัวข้อมูลที่เลือก
+data export { c, addStudent, ft as fil } ไปที่ main 
+main สามารถ addStudent ได้และ filterได้ด้วย fil
